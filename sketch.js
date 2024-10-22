@@ -9,7 +9,7 @@ let colors = [ [83, 77, 154], [63, 104, 201], [194, 31, 38], [26, 36, 35],
 function setup() {
   createCanvas(windowWidth, windowHeight);
   noStroke () //disabilita i i contorni delle forme, 
-  //in modo che i cerchi e i quadrati vengano disegnati senza bordi.
+  //in modo che i cerchi e i quadrati vengano disegnati senza bordo.
   noLoop();
   
 }
